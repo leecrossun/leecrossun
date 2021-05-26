@@ -11,6 +11,4 @@
 
 ### 📞 Contact
 
-##### - **Email  : leecrossun@gmail.com**
-##### - **Blog  : [https://codingexplore.tistory.com/](https://codingexplore.tistory.com/)**
-##### - **Github** : [**https://github.com/leecrossun**](https://github.com/leecrossun)
+##### - 연락처 및 블로그 정보는 오른쪽 프로필 카드를 확인해주세요 :)
