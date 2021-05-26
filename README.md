@@ -14,23 +14,3 @@
 ##### - **Email  : leecrossun@gmail.com**
 ##### - **Blog  : [https://codingexplore.tistory.com/](https://codingexplore.tistory.com/)**
 ##### - **Github** : [**https://github.com/leecrossun**](https://github.com/leecrossun)
-
-
-### Backend
-
-##### - **Java, Python**
-##### - **Spring, Django**
-##### - **Visual Studio Code, Eclipse, AndroidStudio**
-##### - **MySQL, SQLite MyBatis, JDBC**
-##### - **Tomcat**
-##### - **Git**
-
-### Frontend
-
-##### - **HTML, CSS, javascript**
-##### - **JSP, JSTL, EL**
-
-### Collaborate
-
-##### - **Github**
-##### - **Slack, Trello**
