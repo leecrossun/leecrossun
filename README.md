@@ -9,4 +9,4 @@
 ##### - **배우는 것에 교만하지 않고 꾸준히 한걸음씩 나아가고자 합니다.**
 ##### - **책과 영화에 관심이 많고, 최근에는 운동을 하려고 노력중입니다.**
 
-[![Tistory Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://codingexplore.tistory.com/)](https://codingexplore.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tistory%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://codingexplore.tistory.com/)](https://codingexplore.tistory.com/)
